@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/hyperkube:v1.15.3
+FROM k8s.gcr.io/hyperkube:v1.16.2
