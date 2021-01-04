@@ -1,1 +1,1 @@
-FROM gcr.io/kaniko-project/executor:debug-v0.19.0
+FROM gcr.io/kaniko-project/executor:debug-v1.3.0
